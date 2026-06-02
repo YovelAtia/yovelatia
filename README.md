@@ -117,6 +117,12 @@ SCE Shamoon College Of Engineering
 - Reading
 - Baking
 - Mentoring Students
+  
+---
+
+  ## 📫 Contact
+- 📧 Email: yovelatia110@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/yovel-atia-4877a4217/
 - Robotics & Autonomous Systems
 
 ---
