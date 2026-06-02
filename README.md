@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Mechanical & Mechatronics Engineer (B.Sc. & M.Sc.) from Ben-Gurion University.
+Mechanical & Mechatronics Engineer (B.Sc. & M.Sc.) from Ben - Gurion University.
 
 My research focuses on:
 
@@ -16,7 +16,7 @@ My research focuses on:
 - 🧠 Machine Learning
 - 🚁 Autonomous Systems
 
-I enjoy solving challenging engineering problems by combining classical control theory with modern AI-based approaches.
+I enjoy solving challenging engineering problems by combining classical control theory with modern AI - based approaches.
 
 ---
 
@@ -101,29 +101,13 @@ Developed a DDPG controller for:
 ## 🎓 Education
 
 **M.Sc. Mechatronics Engineering**  
-Ben-Gurion University of the Negev
+Ben - Gurion University of the Negev
 
 **B.Sc. Mechanical Engineering (Honors)**  
-Ben-Gurion University of the Negev
+SCE Shamoon College Of Engineering
 
 🏆 Dean's List  
 🏆 Rector's Award
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
 
 ---
 
