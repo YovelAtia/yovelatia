@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yovel Atia</h1>
 <h3 align="center">Mechanical & Mechatronics Engineer | Robotics | Control Systems | Autonomous Navigation</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
